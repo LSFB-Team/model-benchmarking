@@ -1,0 +1,3 @@
+git+https://github.com/ppoitier/sign-language-tools@dev
+git+https://github.com/LSFB-Team/lsfb-dataset@dev#subdirectory=lsfb-dataset
+torch
